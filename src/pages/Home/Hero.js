@@ -3,8 +3,8 @@ import React from "react";
 export default function Hero() {
   return (
     <>
-      <div class="md:p-12 p-4">
-        <div class="flex gap-5 mt-[50px] sm:mt-12 lg:flex-nowrap flex-wrap">
+      <div className="md:p-12 p-4">
+        <div className="flex gap-5 mt-[50px] sm:mt-12 lg:flex-nowrap flex-wrap">
           <div className="bg-[#171b29] flex flex-[1 1 48%] pt-12 pb-10 px-[60px] text-start rounded-3xl flex-col justify-between items-start gap-8 md:h-[400px]">
             <div className="self-stretch flex flex-col justify-between gap-5 items-start">
               <div
