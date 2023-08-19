@@ -10,3 +10,27 @@
   box-shadow: 0px 15px 25px 0px rgba(34, 167, 93, 0.25);
   padding: 0;
 }
+
+.item2Img{
+  background: url(./assets/img/woman-holding-iphone-xs-in-hand-mockup-1.png), #171b29  no-repeat;
+  /* width: 880px; */
+    height: 928px;
+    /* flex-shrink: 0; */
+}
+.testingImage{
+  background: url(./assets/img/group-37.png);
+  /* width: 880px; */
+  background-position:  center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+footer{
+  background: url(./assets/img/Ресурс\ 1@4x\ 2.png);
+  min-height: 1000px;
+  /* width: 880px; */
+  background-position:  center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}

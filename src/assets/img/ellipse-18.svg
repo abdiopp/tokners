@@ -2,6 +2,17 @@
 <g filter="url(#filter0_d_9_64)">
 <path d="M107 51C107 73.6437 88.6437 92 66 92C25 92 25 92 25 51C25 28.3563 43.3563 10 66 10C88.6437 10 107 28.3563 107 51Z" fill="#22A75D"/>
 </g>
+ <text
+                x="63"
+                y="54"
+                text-anchor="middle"
+                alignment-baseline="middle"
+                font-size="26"
+                font-weight="700"
+                fill="#0F1320"
+              >
+                Q1
+              </text>
 <defs>
 <filter id="filter0_d_9_64" x="0" y="0" width="132" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
